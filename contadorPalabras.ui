@@ -64,7 +64,7 @@ border-radius:15px
      <string notr="true">font: 11pt &quot;MS Shell Dlg 2&quot;;</string>
     </property>
     <property name="text">
-     <string>Palabras: 45</string>
+     <string>Palabras: 0</string>
     </property>
    </widget>
    <widget class="QLabel" name="tvCaracteres">
@@ -80,7 +80,7 @@ border-radius:15px
      <string notr="true">font: 11pt &quot;MS Shell Dlg 2&quot;;</string>
     </property>
     <property name="text">
-     <string>Caracteres:120</string>
+     <string>Caracteres: 0</string>
     </property>
    </widget>
    <widget class="QPushButton" name="btnContar">
