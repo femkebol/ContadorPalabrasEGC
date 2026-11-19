@@ -7,7 +7,7 @@
     <x>0</x>
     <y>0</y>
     <width>616</width>
-    <height>407</height>
+    <height>422</height>
    </rect>
   </property>
   <property name="windowTitle">
@@ -100,6 +100,22 @@ border-radius:9px</string>
     </property>
     <property name="text">
      <string>Contar</string>
+    </property>
+   </widget>
+   <widget class="QLabel" name="label_2">
+    <property name="geometry">
+     <rect>
+      <x>40</x>
+      <y>-10</y>
+      <width>581</width>
+      <height>51</height>
+     </rect>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">font: 23pt &quot;MS Shell Dlg 2&quot;;</string>
+    </property>
+    <property name="text">
+     <string>PROYECTO EDUARDO &amp; ISAAC</string>
     </property>
    </widget>
   </widget>
